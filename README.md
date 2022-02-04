@@ -1,1 +1,1 @@
-# habit-name
+# habit-app
